@@ -1,5 +1,5 @@
 ## EarWym
-Tev's music bot.
+Tev's music bot. Semi-private. @me if you want to use it.
 
 ### Currently supports ###
 - Youtube
