@@ -11,4 +11,5 @@ Tev's music bot. Semi-private. @me if you want to use it.
 
 
 [Terms of Service](https://voidyboy.github.io/EarWyrm/TOS)
+
 [Privacy Policy](https://voidyboy.github.io/EarWyrm/Privacy)
